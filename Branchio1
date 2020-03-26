@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <main>
+                <h1>GitHub Task in HTML</h1>
+                <p>Name: Chibugo Amadi</p>
+                <p>Email: chibugo.amadi@unn.edu.ng</P>
+                <p>Slack username: Bugoboss</p>
+                <p>Registered tracks: Frontend, Backend</p>
+                <p>Registered courses: HTML, CSS, Javascript and PHP</p>
+        </main>
+
+
+     </body>
+</html>
+
+
